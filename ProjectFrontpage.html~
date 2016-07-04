@@ -1,0 +1,27 @@
+<!doctype html>
+	<html>
+	<head>
+		<meta content="text/html; charset=utf-8"/>
+		<meta name="LANG" content="fr"/>
+		<link rel="stylesheet" href="frontPageCss.css" />
+		<meta name="description" content="Welcome"/>
+		<title>Welcome</title>
+	</head>
+
+	<body>
+		<header> Welcome on this very first version of our fantastic lucrative activity </header>
+		<div id ="masterDiv">
+			<nav id ="nav1">Nav Gauche
+			</nav>
+			<div id ="div1"> Div Centre
+			</div>
+			<nav id ="nav2">Nav Droite
+			</nav>
+		</div>
+		<footer>Infos
+		</footer>
+
+	</body>
+
+	</html>
+
